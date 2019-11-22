@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-.button-row {
+.button-row, .toggle-planet {
     margin: 0 0 1rem 0;
   }
   
