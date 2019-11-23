@@ -1,15 +1,15 @@
-.app {
+.stardb-app {
     width: 50%;
     margin: auto;
 }
 
-.button-row, .toggle-planet {
+.button-row {
     margin: 0 0 1rem 0;
   }
   
-.button-row button {
+  .button-row button {
     margin-right: 1rem;
-}
+  }
   
 .stardb-app .row {
     margin-bottom: 1rem;
